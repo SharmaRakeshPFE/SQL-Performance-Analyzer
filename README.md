@@ -13,9 +13,7 @@ Performance
 Job related information
 
 
-Download the zip file and extract all the file in folder and run setup.exe. This will install application with name SARA your machine.
 
->>Download Sara Performance Analyzer<<
 How to run this tool and pre-requisites for this application
 
 You must be SYSADMIN on SQL Server and Server Admin on Machine to run this application
